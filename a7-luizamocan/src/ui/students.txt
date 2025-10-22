@@ -1,0 +1,10 @@
+70, Alin, 911
+59, Ana, 911
+46, Adi, 914
+92, Adi, 911
+16, Alex, 914
+76, Mihai, 911
+5, Mihai, 915
+79, Alex, 911
+69, Luiza, 913
+53, Alex, 914
