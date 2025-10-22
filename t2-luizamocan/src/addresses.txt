@@ -1,0 +1,5 @@
+2000,Dorobantilor,50,100
+3,Jean Jaures, 3,25
+4,Ploiesti,33,44
+2,Teleorman, 34,55
+1,Theodor Mihail,12,20

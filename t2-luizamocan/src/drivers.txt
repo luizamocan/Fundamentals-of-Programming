@@ -1,0 +1,5 @@
+Alex,5,17
+Ana,22,33
+Daniel,1,4
+Ion,10,21
+Luiza,10,25
